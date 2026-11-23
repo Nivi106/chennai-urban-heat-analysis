@@ -1,0 +1,28 @@
+name: chennai-geo
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - matplotlib
+  - shapely
+  - rasterio
+  - duckdb
+  - stackstac
+  - ipykernel
+  - rioxarray
+  - pandas
+  - pystac-client
+  - pyproj
+  - geopandas
+  - jupyterlab
+  - ruff
+  - pytest
+  - scipy
+  - gdal
+  - numpy
+  - pyarrow
+  - planetary-computer
+  - xarray
+  - scikit-learn
+  - dask
+prefix: C:\Users\Nivethitha\miniforge3\envs\chennai-geo
